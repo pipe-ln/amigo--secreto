@@ -5,7 +5,7 @@ El objetivo es permitir a los usuarios ingresar nombres de amigos en una lista y
 
 ## 📌 Índice
  
-1.  [🛠️ Funcionalidades](#️-funcionalidades)
+1.  [🛠️ Funcionalidades](https://github.com/pipe-ln/amigo--secreto/edit/main/README.md#%EF%B8%8F-tecnolog%C3%ADas-utilizadas) 
 2. [🖼 Capturas de pantalla](#-capturas-de-pantalla)   
 3. [🛠️ Tecnologías utilizadas](#️-tecnologías-utilizadas)  
 4. [📦 Instalación y ejecución](#-instalación-y-ejecución)  
@@ -29,16 +29,16 @@ El objetivo es permitir a los usuarios ingresar nombres de amigos en una lista y
 ### 🖼 Capturas de pantalla
 
 #### Pantalla principal  
-![Interfaz inicial](assets/inicio.png)  
+![Interfaz inicial](assets/Inicio.png)  
 
 #### Después de agregar nombres  
 ![Lista de Nombres](assets/lista.png)  
 
 #### Resultado del sorteo  
-![Sorteo realizado](assets/sorteopng)  
+![Sorteo realizado](assets/sorteo.png)  
 
 #### Reiniciar el sorteo
-![Reiniciar sorteo](assets/inicio.png)
+![Reiniciar sorteo](assets/Inicio.png)
 
 ## 📦 Instalación y ejecución
 
